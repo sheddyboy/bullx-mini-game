@@ -233,8 +233,10 @@ export default function Home() {
       >
         <AlertDialogContent>
           <AlertDialogHeader>
-            <AlertDialogTitle>BullX Mini Game</AlertDialogTitle>
-            <AlertDialogDescription>
+            <AlertDialogTitle className="text-center">
+              BullX Mini Game
+            </AlertDialogTitle>
+            <AlertDialogDescription className="text-center">
               Find the odd one out
             </AlertDialogDescription>
           </AlertDialogHeader>
